@@ -31,7 +31,7 @@ MERN MongoDB Express React Node
 
 ## Installer manuellement Les dépendances
   ```sh
-  npm i express mongoose dotenv nodemon cors
+  npm i express mongoose dotenv nodemon cors jsonwebtoken joi joi-password-complexity
   ```
 
 ## Lancer le serveur nodemon / Connection à la DB
