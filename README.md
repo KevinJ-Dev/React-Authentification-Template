@@ -33,3 +33,8 @@ MERN MongoDB Express React Node
   ```sh
   npm i express mongoose dotenv nodemon cors
   ```
+
+## Lancer le serveur nodemon / Connection à la DB
+  ```sh
+  npm run start or npm start
+  ```
